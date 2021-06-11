@@ -12,9 +12,14 @@
 
 ![SmartSelectImage_2021-06-12-01-33-59](https://user-images.githubusercontent.com/83075908/121720635-4ad71880-cb1e-11eb-94c4-18ff7d01908f.png)
 
+#### In the Graduation Credits tab, the scores entered for each semester are saved, and the total credits are notified. If you press the "Initialize" button, your grade will be initialized to "0" for each semester.
+
+![SmartSelectImage_2021-06-12-01-40-45](https://user-images.githubusercontent.com/83075908/121721494-44956c00-cb1f-11eb-8e5a-23ec29a644ac.png)
 ---
 ### Page Template Address
 
 * [live example](https://learning-zone.github.io/website-templates/simple-sidebar)
 
 ![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/simple-sidebar.png "simple-sidebar")
+---
+### The site was created, but the database was not built. It will be supplemented further afterwards.

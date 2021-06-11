@@ -1,5 +1,5 @@
-2021-1 OSS Final Project
-####22000216 Na Borim
+# 2021-1 OSS Final Project
+#### 22000216 Na Borim
 ## Site Documentation
 
 #### The website is intended for college students. 

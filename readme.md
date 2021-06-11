@@ -4,7 +4,7 @@
 #### We have credits to take for graduation. 
 #### Instead of directly calculating this, just entering information will calculate your credit.
 ---
-## Start Program
+## Using Programs
 
 #### You can enter your name, school year, semester, department, and email address.
 #### The remaining credits are printed from the graduation credits minus the credits you have taken so far.

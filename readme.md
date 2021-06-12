@@ -1,7 +1,8 @@
 # 2021-1 OSS Final Project
 #### 22000216 Na Borim
 
-## http://borimschool.com/OSS/Scheduler/
+## Site Link: http://borimschool.com/OSS/Scheduler/
+## Video Link: https://youtu.be/z1XgxbRP0yk
 
 ## Site Documentation
 

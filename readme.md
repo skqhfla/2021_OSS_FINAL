@@ -1,5 +1,8 @@
 # 2021-1 OSS Final Project
 #### 22000216 Na Borim
+
+## http://borimschool.com/OSS/Scheduler/
+
 ## Site Documentation
 
 #### The website is intended for college students. 
